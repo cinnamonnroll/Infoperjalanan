@@ -58,6 +58,20 @@ Intra-Jakarta (Di dalam Jakarta):
 	GR2| Bus Gratis: Tanah Abang Explorer
 	D21| Universitas Indonesia-Lebak Bulus
 	
+Bus Malam (AMARI)
+	
+	  M1| Blok M-Kota
+	  M2| Pulo Gadung-Harmoni
+	  M3| Kalideres-Harmoni
+	  M4| Pulo Gadung-Tosari
+	  M5| PGC 1-Ancol
+	  M6| Ragunan-Harmoni via Kuningan
+	  M7| Kampung Rambutan-Harmoni via Pancoran
+	  M8| Lebak Bulus-Harmoni via Tomang
+	  M9| Pinang Ranti-Pluit
+	 M10| PGC 2-Tanjung Priok
+	M11A| Pulo Gadung-Pulo Gebang
+	
 Royaltrans:
 
 	 6P| Cibubur-Kuningan
