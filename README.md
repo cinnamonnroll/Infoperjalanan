@@ -92,4 +92,4 @@ Bus Lintas Perbatasan (Transjabodetabek):
 	T11| Terminal Poris Plawad-Bundaran Senayan
 	T12| Terminal Poris Plawad-Juanda
 	
-Rilis info ini berdasarkan edaran yang dibuat PT Transportasi Jakarta melalui Instagram serta Twitter. Jika terdapat informasi yang salah atau kurang kiranya bisa diberitahukan ke admin melalui [DM Instagram Jepret Busway](instagram.com/jepretbusway)
+Rilis info ini berdasarkan edaran yang dibuat PT Transportasi Jakarta melalui Instagram serta Twitter. Jika terdapat informasi yang salah atau kurang kiranya bisa diberitahukan ke admin melalui [DM Instagram Jepret Busway](https://instagram.com/jepretbusway)
