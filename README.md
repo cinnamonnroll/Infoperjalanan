@@ -57,6 +57,7 @@ Intra-Jakarta (Di dalam Jakarta):
 	GR1| Bus Gratis: Bundaran Senayan-Harmoni
 	GR2| Bus Gratis: Tanah Abang Explorer
 	D21| Universitas Indonesia-Lebak Bulus
+	Seluruh rute JakLingko
 	
 Bus Malam (AMARI)
 	
